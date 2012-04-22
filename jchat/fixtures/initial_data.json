@@ -1,0 +1,9 @@
+[
+	{
+		"model" : "jchat.room",
+		"pk" : 1,
+		"fields" : {
+			"comment" : "Chat générale"
+		}
+	}
+]

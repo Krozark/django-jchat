@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+	{% with JQUERY_NEEDED=1 %}
+		{% include "jchat_base.html" %}
+	{% endwith %}
+	{# or if you have jquery include in your template juste include #}
+	{% include "jchat_base.html" %}
+{% endblock %}
