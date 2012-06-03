@@ -8,7 +8,7 @@ from django.contrib.auth.models import User
 
 from models import Room, Message
 
-from Anka_Dreles.jchat.utils import render_to_json
+from jchat.utils import render_to_json
 
 
 @login_required

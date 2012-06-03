@@ -1,7 +1,7 @@
 # -*- encoding: UTF-8 -*-
 
 from django.contrib import admin
-from Anka_Dreles.jchat.models import *
+from jchat.models import *
 
 class MessageInline(admin.TabularInline):
     model = Message
