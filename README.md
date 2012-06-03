@@ -1,4 +1,5 @@
 django-jchat
 ============
 
-a easy an simple modul to add a chat un you website
+A easy and simple module to add a chat in your website
+Only use Django and jquery
